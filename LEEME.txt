@@ -1,11 +1,8 @@
-BRISA DE DRAGONES — MÓDULO 5
+BRISA DE DRAGONES — CAMPAÑA INTEGRADA v1.0
 
-Entrega acumulativa: incluye módulos 1 a 4 corregidos, más ambientación visual.
-
-NOVEDADES: seis ilustraciones vectoriales originales (aldea, puente, bosque, colina, estrella, campamento), tarjetas de escena, indicador de avance de campaña, transiciones suaves, ajustes móviles y sonido opcional en botones.
-
-INSTALACIÓN: subir el CONTENIDO de esta carpeta a la raíz del repositorio GitHub Pages. Reemplazar archivos anteriores. Exportar la partida desde Diario antes de actualizar.
-
-NOTAS: el sonido requiere activación mediante el botón ♫. No incluye ilustraciones extraídas del libro ni narración generativa con IA. La campaña principal y las misiones siguen siendo historias locales definidas.
-
-PRUEBAS: comprobación de sintaxis y ZIP; validar interacción en Android y recargar la PWA tras actualizar.
+Sube TODO el contenido de esta carpeta a la raíz del repositorio de GitHub Pages.
+Conserva la clave de guardado brisa-dragones-save-v1. Exporta una copia antes de actualizar.
+Las partidas que ya completaron La estrella perdida (stage=4) comienzan en el capítulo 2; las demás comienzan en el capítulo 1.
+Cinco capítulos narrativos jugables con escenas y decisiones, tiradas y alternativas al fracaso.
+Las secciones Explorar, Misiones y Desafíos permanecen como actividades adicionales; no están integradas en la progresión de la campaña.
+Esta versión no incorpora una IA en línea ni las reglas completas del manual.

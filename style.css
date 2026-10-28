@@ -3,3 +3,5 @@
 .item{display:flex;justify-content:space-between;align-items:center;background:#f4f3e8;border-radius:12px;padding:7px 10px;margin:6px 0}.item button{padding:7px 13px}.stat select{padding:5px;margin-top:5px;font-size:14px}.row input{flex:2;min-width:130px}.row button{flex:1}.paper{background-image:radial-gradient(circle at 100% 0%,#f8e9ed77,transparent 45%)}
 
 .rolling{animation:brisaRoll .13s ease-in-out infinite alternate}@keyframes brisaRoll{from{transform:rotate(-3deg) scale(.98)}to{transform:rotate(3deg) scale(1.03)}}
+
+nav{display:flex;flex-wrap:wrap;gap:6px}nav button{flex:1 1 90px} .choice{min-height:46px} .paper{overflow-wrap:anywhere}

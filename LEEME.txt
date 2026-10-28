@@ -1,0 +1,5 @@
+Brisa de Dragones - Módulo 2
+Sube los archivos contenidos en BrisaDeDragones a la raíz de tu repositorio GitHub Pages.
+Conserva la partida local anterior (clave brisa-dragones-save-v1).
+Nuevo menú: Explorar. Incluye cuatro rutas, clima, tiradas, desvíos, campamento, recolección y diario.
+La campaña original sigue en Historia. Exporta tu partida antes de actualizar.

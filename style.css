@@ -7,3 +7,16 @@
 nav{display:flex;flex-wrap:wrap;gap:6px}nav button{flex:1 1 90px} .choice{min-height:46px} .paper{overflow-wrap:anywhere}
 
 .battle-feedback{padding:14px 16px;border-radius:16px;background:#f5f0e5;border:1px solid #dfd1bb;margin:14px 0;line-height:1.6}.battle-bonus{padding:10px 14px;background:#e3f5e7;border:1px solid #b6dcc1;border-radius:14px;color:#245b3d;font-weight:700}.rolling{animation:brisaRoll .65s ease-in-out}@keyframes brisaRoll{0%{transform:rotate(-2deg) scale(1)}40%{transform:rotate(2deg) scale(1.035)}75%{transform:rotate(-1deg)}100%{transform:rotate(0) scale(1)}}
+
+/* Módulo 5: libro de viaje ilustrado, adaptado a pantallas móviles */
+:root{--ink:#526761;--paper:#fffdf6;--sage:#a5cbb5;--rose:#dcaeb5}
+body{background:radial-gradient(ellipse at 30% 0,#e4f2ec 0,transparent 45%),linear-gradient(150deg,#f7f0e7,#f4f6e9 55%,#f9eef0)}
+main{position:relative}header{position:relative;z-index:2}.hero{isolation:isolate}.hero img{max-height:290px;object-fit:cover;object-position:center 57%}.sky-glow{position:absolute;top:15%;left:8%;color:#fff8d9;font-size:24px;letter-spacing:25px;text-shadow:0 0 12px #fff;animation:twinkle 4s infinite alternate;pointer-events:none;z-index:1}
+.paper{position:relative;border:1px solid #e8d9cb;box-shadow:0 12px 32px #7f9d9020, inset 0 0 0 3px #ffffff88;background:radial-gradient(circle at 95% 5%,#f8e7ed99,transparent 43%),#fffdf6;animation:pageEnter .32s ease both}
+.paper:before{content:'✿';position:absolute;right:16px;top:9px;font-size:17px;color:#e8c3c8;opacity:.6}
+.paper h2{font-size:clamp(23px,5vw,29px)}button{touch-action:manipulation}button:disabled{opacity:.55;cursor:not-allowed}nav{position:sticky;top:0;z-index:10;background:#f9f6eeed;backdrop-filter:blur(12px);padding:8px 4px;border-radius:16px;box-shadow:0 6px 20px #a1b4a21f}nav button{flex:1 1 85px}nav button.active{box-shadow:inset 0 0 0 2px #a3c5ad}
+.world-card{margin:12px 0 16px;background:#fffaf1;border:1px solid #e9d9cc;border-radius:22px;overflow:hidden;box-shadow:0 8px 20px #8d9c8b24;animation:pageEnter .35s ease both}.world-card img{display:block;width:100%;max-height:245px;object-fit:cover}.world-caption{display:flex;align-items:center;justify-content:space-between;gap:10px;padding:11px 15px;font:600 13px system-ui;color:#759385}.world-caption small{font-weight:400;color:#a88b8d}.world-progress{display:flex;gap:5px;padding:0 15px 13px}.world-progress i{height:6px;border-radius:10px;background:#e5e6da;flex:1}.world-progress i.done{background:#a8cdb6}
+.illustration{filter:drop-shadow(0 3px 5px #c0a5a455)}.dice{filter:drop-shadow(0 4px 8px #b0b9b7)}.choice:hover,.primary:hover{box-shadow:0 5px 14px #9cb6a644}
+@keyframes twinkle{from{opacity:.3;transform:translateY(0)}to{opacity:.9;transform:translateY(-7px)}}@keyframes pageEnter{from{opacity:.5;transform:translateY(9px)}to{opacity:1;transform:translateY(0)}}
+@media(max-width:450px){.hero img{max-height:205px}.world-card img{max-height:185px}nav button{font-size:11px;flex:1 1 74px;padding:11px 4px}.world-caption{font-size:12px}}
+@media(prefers-reduced-motion:reduce){.sky-glow,.paper,.world-card{animation:none!important}}

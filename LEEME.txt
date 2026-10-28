@@ -1,7 +1,11 @@
-BRISA DE DRAGONES · CORRECCIÓN MÓDULO 4
+BRISA DE DRAGONES — MÓDULO 5
 
-Se mantienen los módulos 1–4 y la clave de guardado local.
-Se corrigen las acciones de diálogo y técnicas especiales; ambas muestran resultados claros.
-El diálogo ahora anima los dados; las bonificaciones pendientes se muestran de forma visible.
-Sube el CONTENIDO de esta carpeta a la raíz de tu repositorio GitHub Pages.
-Exporta tu partida desde Diario antes de reemplazar los archivos.
+Entrega acumulativa: incluye módulos 1 a 4 corregidos, más ambientación visual.
+
+NOVEDADES: seis ilustraciones vectoriales originales (aldea, puente, bosque, colina, estrella, campamento), tarjetas de escena, indicador de avance de campaña, transiciones suaves, ajustes móviles y sonido opcional en botones.
+
+INSTALACIÓN: subir el CONTENIDO de esta carpeta a la raíz del repositorio GitHub Pages. Reemplazar archivos anteriores. Exportar la partida desde Diario antes de actualizar.
+
+NOTAS: el sonido requiere activación mediante el botón ♫. No incluye ilustraciones extraídas del libro ni narración generativa con IA. La campaña principal y las misiones siguen siendo historias locales definidas.
+
+PRUEBAS: comprobación de sintaxis y ZIP; validar interacción en Android y recargar la PWA tras actualizar.

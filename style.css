@@ -5,3 +5,5 @@
 .rolling{animation:brisaRoll .13s ease-in-out infinite alternate}@keyframes brisaRoll{from{transform:rotate(-3deg) scale(.98)}to{transform:rotate(3deg) scale(1.03)}}
 
 nav{display:flex;flex-wrap:wrap;gap:6px}nav button{flex:1 1 90px} .choice{min-height:46px} .paper{overflow-wrap:anywhere}
+
+.battle-feedback{padding:14px 16px;border-radius:16px;background:#f5f0e5;border:1px solid #dfd1bb;margin:14px 0;line-height:1.6}.battle-bonus{padding:10px 14px;background:#e3f5e7;border:1px solid #b6dcc1;border-radius:14px;color:#245b3d;font-weight:700}.rolling{animation:brisaRoll .65s ease-in-out}@keyframes brisaRoll{0%{transform:rotate(-2deg) scale(1)}40%{transform:rotate(2deg) scale(1.035)}75%{transform:rotate(-1deg)}100%{transform:rotate(0) scale(1)}}

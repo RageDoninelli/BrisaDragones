@@ -1,7 +1,7 @@
-Brisa de Dragones — Módulo 4
+BRISA DE DRAGONES · CORRECCIÓN MÓDULO 4
 
-Incluye todos los módulos anteriores y la pestaña Desafíos: tres encuentros, técnicas por clase, decisiones pacíficas, protección, tiradas animadas, experiencia y niveles.
-
-Sube el CONTENIDO de esta carpeta a la raíz de GitHub Pages. Antes, exporta tu partida en Diario.
-
-El sistema de desafíos es una adaptación original simplificada, no una transcripción de las reglas de Ryuutama.
+Se mantienen los módulos 1–4 y la clave de guardado local.
+Se corrigen las acciones de diálogo y técnicas especiales; ambas muestran resultados claros.
+El diálogo ahora anima los dados; las bonificaciones pendientes se muestran de forma visible.
+Sube el CONTENIDO de esta carpeta a la raíz de tu repositorio GitHub Pages.
+Exporta tu partida desde Diario antes de reemplazar los archivos.

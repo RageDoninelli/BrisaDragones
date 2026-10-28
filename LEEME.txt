@@ -1,7 +1,7 @@
-BRISA DE DRAGONES — MÓDULO 3: MISIONES Y NARRADORA LOCAL
+Brisa de Dragones — Módulo 4
 
-Sube el CONTENIDO de esta carpeta a la raíz del repositorio GitHub Pages, reemplazando archivos anteriores.
-Incluye los módulos anteriores y la pestaña Misiones con tres historias originales, diálogos, tiradas y decisiones con consecuencias.
-La narradora es local y guionizada; no es una IA generativa.
-Las partidas se guardan en localStorage. Exporta una copia antes de actualizar.
-Si Chrome muestra una versión antigua, cierra la pestaña y vuelve a abrirla para activar el nuevo service worker.
+Incluye todos los módulos anteriores y la pestaña Desafíos: tres encuentros, técnicas por clase, decisiones pacíficas, protección, tiradas animadas, experiencia y niveles.
+
+Sube el CONTENIDO de esta carpeta a la raíz de GitHub Pages. Antes, exporta tu partida en Diario.
+
+El sistema de desafíos es una adaptación original simplificada, no una transcripción de las reglas de Ryuutama.
